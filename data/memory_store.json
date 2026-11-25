@@ -1,0 +1,61 @@
+{
+  "facts": {
+    "name": {
+      "key": "name",
+      "value": "محمد",
+      "category": "identity",
+      "updated_at": "2026-11-14 22:00:29"
+    }
+  },
+  "notes": [],
+  "history": [
+    {
+      "role": "user",
+      "content": "اسمي محمد"
+    },
+    {
+      "role": "assistant",
+      "content": "أهلاً بكم، محمد. كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "role": "user",
+      "content": "اشرح الملف دا"
+    },
+    {
+      "role": "assistant",
+      "content": "عذرًا، لم يذكر الملف الذي ترغب في توضيحه. هل يمكنك توضيح أكثر؟"
+    },
+    {
+      "role": "user",
+      "content": "lecture 2"
+    },
+    {
+      "role": "assistant",
+      "content": "في محاضرة رقم 2، يتم مناقشة طرق صياغة مشاكل تحليلية المتوازنة. المحاضرة تركز على أربع خطوات أساسية في صياغة هذه المشكلات، بالإضافة إلى بنية رياضية عامة. هناك أمثلة متنوعة تم تقديمها لشرح هذه المفاهيم بشكل أفضل."
+    },
+    {
+      "role": "user",
+      "content": "اشرحلي"
+    },
+    {
+      "role": "assistant",
+      "content": "في محاضرة رقم 2، يتم مناقشة طرق صياغة مشاكل تحليلية متوازنة. هذه المحاضرة تركز على أربع خطوات أساسية في صياغة هذه المشكلات، بالإضافة إلى بنية رياضية عامة. هناك أمثلة متنوعة تم تقديمها لشرح هذه المفاهيم بشكل أفضل."
+    },
+    {
+      "role": "user",
+      "content": "اهلا"
+    },
+    {
+      "role": "assistant",
+      "content": "[Error connecting to Ollama at http://127.0.0.1:11434: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>]"
+    },
+    {
+      "role": "user",
+      "content": "هل انت بتفهم"
+    },
+    {
+      "role": "assistant",
+      "content": "[Error connecting to Ollama at http://127.0.0.1:11434: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>]"
+    }
+  ]
+}

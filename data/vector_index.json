@@ -1,0 +1,228 @@
+{
+  "chunk_size": 400,
+  "chunk_overlap": 50,
+  "chunks": [
+    {
+      "chunk_id": "company_policy.md_chunk_0",
+      "source": "company_policy.md",
+      "text": "# سياسات وقواعد العمل الرسمية للشركة",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "company_policy.md_chunk_1",
+      "source": "company_policy.md",
+      "text": "## 1. ساعات ونظام العمل\n- ساعات العمل الرسمية: تبدأ من الساعة 9:00 صباحاً حتى الساعة 5:00 مساءً بتوقيت الرياض / القاهرة.\n- نظام العمل المرن: يُسمح للموظف ببدء العمل بين 8:00 صباحاً و 10:00 صباحاً شرط إكمال 8 ساعات عمل يومياً.\n- العمل عن بُعد: يحق لكل موظف العمل عن بُعد يومين في الأسبوع بعد التنسيق مع مدير الفريق المباشر.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "company_policy.md_chunk_2",
+      "source": "company_policy.md",
+      "text": "## 2. الإجازات والعطلات\n- الإجازة السنوية المدفوعة: 30 يوماً تقويمياً في السنة للموظف بدوام كامل.\n- الإجازة المرضية: حتى 15 يوماً مدفوعة الأجر سنوياً بتقرير طبي معتمد.\n- تقديم طلب الإجازة: يجب تقديم الطلب عبر البوابة الداخلية قبل أسبوعين على الأقل من موعد الإجازة المخطط لها.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "company_policy.md_chunk_3",
+      "source": "company_policy.md",
+      "text": "## 3. تعويض المصروفات والدورات التدريبية\n- ميزانية التعلم السنوية: تمنح الشركة كل مهندس ومطور ميزانية قدرها 1500 دولار سنوياً للكتب، الدورات التقنية، والشهادات المهنية.\n- تعويض الأجهزة: تقدم الشركة بدل شراء تجهيزات مكتب منزلي لمرة واحدة بقيمة 500 دولار للموظفين عن بُعد.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_0",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 1]\nLecture 2  : Formulation of Linear Programming Problems",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_1",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 2]\nAgenda\n1\n2 Components of an LP Model\n3 The Four Steps of Formulation\n4 General Mathematical Structure\n5 Examples\n2\nWhat is Linear Programming?",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_2",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 3]\nH O W  O R  I S  A P P L I E D\nThe OR Methodology\nProblem\nFormulation\n6",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_3",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 4]\nDecision problem ??",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_4",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 5]\nModel ??\nOR is model driven ( build model first)\nHow to model ??",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_5",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 6]\nD E F I N I T I O N\nWhat is Linear Programming?\nLinear Programming (LP) is a mathematical technique for\nfinding the best possible outcome — maximum profit, minimum\ncost, optimal allocation — given a set of limited resources and\nrequirements, where every relationship involved is linear.\nReal-World\nProblem\nMathematical\nModel\nOptimal\nSolution\n3",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_6",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 7]\nD E F I N I T I O N\nWhat is Linear Programming?\nLinear Programming (LP) Linear programming uses linear \nalgebraic relationships to represent a firm's decisions, given a \nbusiness objective, and resource constraints.\nReal-World\nProblem\nMathematical\nModel\nOptimal\nSolution\n3",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_7",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 8]\nComponents of an LP Model",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_8",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 9]\nComponents of a LP Model\nDecision Variables\nThe unknown quantities the decision-maker \ncontrols: X1, X2, ..., Xn.\nObjective Function\nLinear expression to maximize (profit, output) or \nminimize (cost, time).\nConstraints\nLinear equations/inequalities (≤, ≥, =) \nrepresenting limited resources.\nNon-negativity\nXi ≥ 0 for all i — quantities can't be negative.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_9",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 10]\nThe Four Steps of Formulation",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_10",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 11]\nGeneral Mathematical Structure\nSubject to:\na₁₁X₁ + a₁₂X₂ + ... + a₁ₙXₙ (≤, =, ≥)    b₁\na₂₁X₁ + a₂₂X₂ + ... + a₂ₙXₙ (≤, =, ≥)    b₂\n⋮\naₘ₁X₁ + aₘ₂X₂ + ... + aₘₙXₙ (≤, =, ≥)   bₘ\nX₁, X₂, ..., Xₙ ≥ 0\nOptimize   Z = c₁X₁ + c₂X₂ + ... + cₙXₙ",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_11",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 12]\nMathematical Modeling\nProblem \nSolving\nDecision \nVariables\nObjective Function\n(Maximize/ Minimize)\nConstraints\nDefining Problem and Gathering Data",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_12",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 13]\nExample 1\nProduct\nLabor \n(Hr./Unit)\nClay \n(Lb./Unit)\nProfit \n($/Unit)\nBowl 1 4 40\nMug 2 3 50\nResource Requirements\n❑ How many bowls and mugs should be produced to maximize profits \ngiven labor and materials constraints?\n❑ There are 40 hours of labor and 120 pounds of clay available each day \nfor production.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_13",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 14]\nSolution 1 Resource Availability:\n40 hrs of labor per day\n120 lbs of clay\nDecision Variables:\n𝑥1= number of bowls to produce per day\n𝑥2= number of mugs to produce per day\nObjective Function:\nMaximize 𝑍 = $40𝑥1 + $50𝑥2\nWhere 𝑍= profit per day\nResource Constraints:\n1𝑥1 + 2𝑥2 ≤ 40hours of labor\n4𝑥1 + 3𝑥2 ≤ 120pounds of clay\nNon-Negativity Constraints:\n𝑥1 ≥ 0; 𝑥2 ≥ 0",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_14",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 15]\nSolution 1\nComplete Linear Programming Model:\nMaximize Z = $40x₁ + $50x₂\nsubject to: \n1x₁ + 2x₂ ≤ 40\n4x1 + 3x₂ ≤ 120\nx₁, x₂ ≥ 0",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_15",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 16]\nSolution 1\nA feasible solution does not violate any of the \nconstraints:\nExample:\n𝑥1= 5 bowls\n𝑥2= 10 mugs\n𝑍 = $40𝑥1 + $50𝑥2 = $700\nLabor constraint check: 1 5 + 2 10 = 25 ≤ 40hours\nClay constraint check: 4 5 + 3 10 = 70 ≤\n120pounds",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_16",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 17]\nExample 2\nBrand\nNitrogen \n(lb/bag)\nPhosphate \n(lb/bag)\nSuper-gro 2 4\nCrop-quick 4 3\nChemical Contribution\n❑ Two brands of fertilizer available - Super-gro, Crop-quick.\n❑ Field requires at least 16 pounds of nitrogen and 24 pounds of phosphate.\n❑ Super-gro costs $6 per bag, Crop-quick $3 per bag.\n❑ Problem: how many bags of each brand to purchase in order to minimize the total cost of",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_17",
+      "source": "lecture 2.pdf.pdf",
+      "text": "urchase in order to minimize the total cost of \nfertilizing given following data .",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_18",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 18]\nExample  3 \n4\nYou are taking a test in which items of type A are worth 10 \npoints and items of type B are worth 15 points. It takes 3 \nminutes for each item of type A and 6 minutes for each \nitem of type B. Total time allowed is 60 minutes, and you \nmay not answer more than 16 questions. Assuming all \nyour answers are correct, how many items of each type \nshould you answer in order to",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_19",
+      "source": "lecture 2.pdf.pdf",
+      "text": "ems of each type \nshould you answer in order to get the best score?",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_20",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 19]\nExample 3 (solution)\n4\nYou are taking a test in which items of type A are worth 10 points and \nitems of type B are worth 15 points. It takes 3 minutes for each item of \ntype A and 6 minutes for each item of type B. Total time allowed is 60 \nminutes, and you may not answer more than 16 questions. Assuming \nall your answers are correct, how many items of each type should you \nanswer in",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_21",
+      "source": "lecture 2.pdf.pdf",
+      "text": "many items of each type should you \nanswer in order to get the best score?\nx = # of A y = # of B\nMax score = 10x+15y\nConstraints\n3x+6y ≤ 60\nX+y ≤ 16",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_22",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 20]\nMCQ 1",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_23",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 21]\nMCQ 2\n4",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_24",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 22]\nMCQ 3\n4",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_25",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 23]\nMCQ 4\n4",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_26",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 24]\n4\nSolution:\nQ9: 3\nQ10: 3\nQ11: 1\nQ12: 2",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "lecture 2.pdf.pdf_chunk_27",
+      "source": "lecture 2.pdf.pdf",
+      "text": "[صفحة 25]\nQuestions?\nThank you for your attention.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "project_alpha_architecture.md_chunk_0",
+      "source": "project_alpha_architecture.md",
+      "text": "# المعمارية التقنية لمشروع ألفا (Project Alpha Architecture)",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "project_alpha_architecture.md_chunk_1",
+      "source": "project_alpha_architecture.md",
+      "text": "## 1. الواجهة الأمامية (Frontend)\n- الإطار الأساسي: Next.js 15 مع React 19 وتطبيق TypeScript.\n- إدارة الحالة والتصميم: Tailwind CSS مع Shadcn UI.\n- الاتصال بالخادم: TanStack Query (React Query) للاتصالات المتزامنة والتخزين المؤقت.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "project_alpha_architecture.md_chunk_2",
+      "source": "project_alpha_architecture.md",
+      "text": "## 2. الواجهة الخلفية والخدمات المصغرة (Backend Services)\n- لغة الواجهة الخلفية الأساسية: Go (Golang) للخدمات عالية الأداء، وبايثون (Python FastAPI) لخدمات معالجة البيانات والذكاء الاصطناعي.\n- بوابات الدفع (Payment Gateway): نستخدم Stripe و Apple Pay مع تفعيل بروتوكول 3D Secure 2.0.\n- قاعدة البيانات الرئيسية: PostgreSQL مستضافة عبر Supabase مع قفل التكرار ومؤشرات pgvector للبحث الدلالي.\n- التخزين",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "project_alpha_architecture.md_chunk_3",
+      "source": "project_alpha_architecture.md",
+      "text": "التكرار ومؤشرات pgvector للبحث الدلالي.\n- التخزين المؤقت وقوائم الانتظار: Redis 7 لإدارة جلسات المستخدمين وقوائم انتظار مهام المعالجة الخلفية.",
+      "metadata": {}
+    },
+    {
+      "chunk_id": "project_alpha_architecture.md_chunk_4",
+      "source": "project_alpha_architecture.md",
+      "text": "## 3. الأمان والنشر (DevOps & Security)\n- إدارة الحاويات: Docker Multi-stage builds مع تشغيل الحاويات على Kubernetes (EKS).\n- إدارة الأسرار: HashiCorp Vault؛ يُحظر تماماً وضع أي مفاتيح API داخل ملفات الكود أو مستودع Git.",
+      "metadata": {}
+    }
+  ]
+}
